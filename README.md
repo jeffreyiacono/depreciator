@@ -1,4 +1,4 @@
-# depreciator #
+# depreciator.bas #
 
 `depreciate` worksheet function facilitates the depreciation of a set of capital expenditures against a given depreciation schedule.
 
@@ -38,6 +38,14 @@ _note: {} denotes range selection_
 - `ordered_depreciation_schedule` = {49%, 13%, 7%, ... , %Y}  (vector size = m)
 
 The function will depreciate each month's cap ex by the corresponding entry in the depreciation schedule (_ex._ ($3,000 * 49% + $2,000 * 13% + $1,000 * 7%)).
+
+## Sample App ##
+
+You can view a sample application in the `/sample` directory.
+
+## Excel Add-in ##
+
+Excel Add-in is available in the `/addin` directory for easy distribution and installation.
 
 ##MIT License
 
