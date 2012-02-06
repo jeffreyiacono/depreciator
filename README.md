@@ -1,6 +1,6 @@
 ## depreciator ##
 
-`depreciate` worksheet function facilitates the depreciation of a set of capitial expenditures against a given depreciation schedule.
+`depreciate` worksheet function facilitates the depreciation of a set of capital expenditures against a given depreciation schedule.
 
 ## Basic Usage ##
 
